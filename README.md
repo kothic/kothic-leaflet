@@ -3,7 +3,7 @@ Leaflet plugin for rendering vector layer using kothic-node
 
 **Warning:** kothic-node is a subject of active (but very slow) development and it's not intended for production use yet. 
 
-== Usage
+## Usage
 
 1. Compile kothic-leaflet to a single file
 
