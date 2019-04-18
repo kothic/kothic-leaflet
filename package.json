@@ -1,0 +1,15 @@
+{
+  "name": "kothic-leaflet",
+  "version": "0.0.1",
+  "description": "Leaflet plugin uses Kothic as a renderer",
+  "main": "kothic-browser.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "browserify": "./node_modules/browserify/bin/cmd.js src/kothic-browser.js --debug > dist/kothic.js"
+  },
+  "author": "Miroff",
+  "license": "BSD-2-Clause",
+  "dependencies": {
+    "browserify": "^16.2.3"
+  }
+}
